@@ -1,4 +1,4 @@
-# Iterative, Gradient-Based Attacks on Neural Network Image Classifiers
+# Iterative, Gradient-Based Adversarial Attacks on Neural Network Image Classifiers
 
 The main goal of the thesis is to investigate the properties of two adversarial attacks and extend them. 
 
@@ -35,7 +35,7 @@ In the code, several extensions to the original methods are implemented, both fr
 
 ## Description of files
 
-- `Iterative_Gradient_Based_Attacks_on_Neural_Network_Image_Classifiers.pdf`
+- `Iterative_Gradient_Based_Adversarial_Attacks_on_Neural_Network_Image_Classifiers.pdf`
   - The final version of the report, 2019.
 - `fgm_attack.py`
   - This program contains the FGM_attack module which creates an instance that finds adversarial examples derived from the FGSM method implemented in different norms.
